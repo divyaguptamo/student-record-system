@@ -9,3 +9,5 @@ users.dat
 test_users.dat
 test_audit.log
 audit.log
+it_users.dat
+it_audit.log
