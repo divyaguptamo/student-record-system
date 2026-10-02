@@ -6,3 +6,6 @@ build/
 app
 app.exe
 users.dat
+test_users.dat
+test_audit.log
+audit.log
