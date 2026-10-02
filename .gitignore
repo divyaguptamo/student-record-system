@@ -2,3 +2,7 @@ build/
 app
 app.exe
 users.dat
+build/
+app
+app.exe
+users.dat
