@@ -1,4 +1,5 @@
 # \# Student Record System
+![CI](https://github.com/divyaguptamo/student-record-system/actions/workflows/ci.yml/badge.svg)
 
 # 
 
